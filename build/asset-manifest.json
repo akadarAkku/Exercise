@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/exercise-app/static/css/main.e5f557ec.chunk.css",
+    "main.js": "/exercise-app/static/js/main.31d024b5.chunk.js",
+    "main.js.map": "/exercise-app/static/js/main.31d024b5.chunk.js.map",
+    "runtime-main.js": "/exercise-app/static/js/runtime-main.22a07664.js",
+    "runtime-main.js.map": "/exercise-app/static/js/runtime-main.22a07664.js.map",
+    "static/js/2.e0c8debf.chunk.js": "/exercise-app/static/js/2.e0c8debf.chunk.js",
+    "static/js/2.e0c8debf.chunk.js.map": "/exercise-app/static/js/2.e0c8debf.chunk.js.map",
+    "index.html": "/exercise-app/index.html",
+    "precache-manifest.8ecf066b8bfbe4367131f545bb5d93ff.js": "/exercise-app/precache-manifest.8ecf066b8bfbe4367131f545bb5d93ff.js",
+    "service-worker.js": "/exercise-app/service-worker.js",
+    "static/css/main.e5f557ec.chunk.css.map": "/exercise-app/static/css/main.e5f557ec.chunk.css.map",
+    "static/js/2.e0c8debf.chunk.js.LICENSE": "/exercise-app/static/js/2.e0c8debf.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22a07664.js",
+    "static/js/2.e0c8debf.chunk.js",
+    "static/css/main.e5f557ec.chunk.css",
+    "static/js/main.31d024b5.chunk.js"
+  ]
+}
